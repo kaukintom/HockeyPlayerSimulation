@@ -7,7 +7,7 @@ Simulated results are based on how a player performed in the prior season. If it
 
 Simulations are conducted using a normal distribution, with a mean and variance based on the season they are entering and how they are categorized, which was determined in another workbook.
 
-Some category of players currently contain too few entries do develop an accurate probability distribution for, so some hockey players may not have their next season point totals simulated.
+Some category of players currently contain too few entries to develop an accurate probability distribution for, so some hockey players may not have their next season point totals simulated.
 ### How to Use
 In the file there are plenty of text boxes to help the user navigate the file and also a tutorial on how to use the simulator.
 

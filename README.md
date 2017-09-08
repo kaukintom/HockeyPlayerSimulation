@@ -9,7 +9,7 @@ Simulations are conducted using a normal distribution, with a mean and variance 
 
 Some category of players currently contain too few entries to develop an accurate probability distribution for, so some hockey players may not have their next season point totals simulated.
 ### How to Use
-In the file there are plenty of text boxes to help the user navigate and also a tutorial on how to use the simulator.
+In the file there are plenty of text boxes to help the user navigate and a tutorial on how to use the simulator.
 
 It starts with user inputs. The user will specify the amount of fantasy points recieved for all the relevent and available categories. Any category not containing a value, will not be included in the generated table.
 

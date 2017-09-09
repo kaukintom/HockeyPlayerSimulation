@@ -14,11 +14,11 @@ At any moment in time, as long as a table of hockey players is present on the wo
 This workbook uses userforms for the tutorial, sorting, and simulation components. This helps guide the user and add convenience to the process.
 
 ### About The Simulation
-Note: Data collection and generated probability distributions were conducted in another workbook.
+Notes: 
+- Data collection and generated probability distributions were conducted in another workbook 
+- All past goals and assists values are adjusted to the 2015/2016 season to accurately show when a player increases or decreases season to season 
 
-Simulated results are based on how a player performed in the prior season. If it was a player's first season in the NHL, then it is based on how they are categorized (when first season occured and how they performed in their first season). The similated results are currently only goals and assists.
-
-Simulations are conducted using a normal distribution, with a mean and variance based on the season they are entering and how they are categorized.
+Simulated results are based on how a player performed in the prior season. If it was a player's first season in the NHL, then it is based on how they are categorized (when first season occured and how they performed in their first season). The similated results are currently only goals and assists, using normal distributions.
 
 Some category of players currently contain too few entries to develop an accurate probability distribution for, so some hockey players may not have their next season point totals simulated.
 

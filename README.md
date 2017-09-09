@@ -1,5 +1,5 @@
 
-### Fantasy Hockey Simulator
+## Fantasy Hockey Simulator
 Created to simulate the point production of hockey players for an NHL season and accommodate a fantasy hockey scoring system. This project would be used to aid in fantasy hockey player selection.
 
 ### Getting Started

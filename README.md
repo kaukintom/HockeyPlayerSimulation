@@ -7,7 +7,7 @@ Upon opening the Excel file, there is a button that provides a tutorial on how t
 
 1) The user will specify the amount of fantasy points recieved for all the relevent and available categories, then click the button that reads "Calculate Fantasy Points". Any category not containing a value, will not be included in the generated table.
 
-2) To conduct simulation, then click the button that reads "Simulate Next Season's Point values". The user can specify how many simulations to conduct. The generated table from the previous step will include 4 new columns of data, all related to the simulated results.
+2) To conduct simulation, then click the button that reads "Simulate Next Season's Point values". The user can specify how many simulations to conduct. The generated table from the previous step will include new columns of data, all related to the simulated results.
 
 At any moment in time, as long as a table of hockey players is present on the worksheet (which there always should be), any relevent category to the table can be sorted by clicking button that reads "Sort By Category".
 

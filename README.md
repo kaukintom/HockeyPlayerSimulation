@@ -23,4 +23,4 @@ Simulated results are based on how a player performed in the prior season. If it
 Some category of players currently contain too few entries to develop an accurate probability distribution for, so some hockey players may not have their next season point totals simulated.
 
 ### Acknowledgments
-McMaster Commerce course 3QA3: Introduced simulation and how simulation can be achieved
+McMaster Commerce course 3QA3 - Introduced simulation and how simulation can be achieved

@@ -15,7 +15,7 @@ This workbook uses userforms for the tutorial, sorting, and simulation component
 
 ### About The Simulation
 Notes: 
-- Data collection and generated probability distributions were conducted in another workbook 
+- Data collection and generated probability distributions were conducted in other workbooks 
 - All past goals and assists values are adjusted to the 2015/2016 level of goals per a game and assists per a game to accurately show when a player increases or decreases season to season 
 
 Simulated results are based on how a player performed in the prior season. If it was a player's first season in the NHL, then it is based on how they are categorized (when first season occured and how they performed in their first season). The similated results are currently only goals and assists, using normal distributions.

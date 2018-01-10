@@ -20,7 +20,7 @@ This workbook uses userforms for the tutorial, sorting, and simulation component
 ### About The Simulation
 Notes: 
 - Data collection occured in another workbook, but the results can be viewed from the workbook "AdjustedStats - Latest Projections - Copy.xlsm" 
-- All past goals and assists values are adjusted to the 2016/2017 level of goals per a game and assists per a game to accurately show when a player increases or decreases season to season 
+- All past goal and assist values are adjusted to the 2016/2017 level of goals per a game and assists per a game to accurately show when a player increases or decreases season to season 
 
 The macros which are used to generate distributions are in the workbook "AdjustedStats - Latest Projections - Copy.xlsm", however, this workbook is cluttered, and the macros are not commented with detail. It will be difficult to understand, but it is available to be viewed. Also, the macros will not be able to run for this workbook since some of the sub procedures require connections to other workbooks. This workbook was recreated without the latest hockey season to produce the distributions for the previous year, to be able to test the error and predictability of the simulator. The second workbook is not place in this repository, as it is completely identical to "AdjustedStats - Latest Projections - Copy.xlsm" but without the latest season of data.
 

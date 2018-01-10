@@ -11,8 +11,6 @@ Upon opening the Excel file "Hockey Player Point Projections.xlsm", there is a b
 
 2) To conduct simulation, then click the button that reads "Simulate Next Season's Point values". The user can specify how many simulations to conduct. The generated table from the previous step will include new columns of data, all related to the simulated results.
 
-Update: 
-
 3)The user has the option to simulate the 2015/2016 season and have it compared to the 2016/2017 season. However, for convenience it is already simulated.
 
 At any moment in time, as long as a table of hockey players is present on the worksheet (which there always should be), any relevent category to the table can be sorted by clicking button that reads "Sort By Category".

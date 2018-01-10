@@ -5,7 +5,7 @@ Created to simulate the point production of hockey players for an NHL season and
 Note: Created using VBA. However, files uploaded to Github containing the macros will be classified as VB.
 
 ### Getting Started
-Upon opening the Excel file, there is a button that provides a tutorial on how to use the simulator.
+Upon opening the Excel file "Hockey Player Point Projections.xlsm", there is a button that provides a tutorial on how to use the simulator.
 
 1) The user will specify the amount of fantasy points recieved for all the relevent and available categories, then click the button that reads "Calculate Fantasy Points". Any category not containing a value, will not be included in the generated table.
 
@@ -20,8 +20,10 @@ This workbook uses userforms for the tutorial, sorting, and simulation component
 
 ### About The Simulation
 Notes: 
-- Data collection and generated probability distributions were conducted in other workbooks 
+- Data collection occured in another workbook, but the results can be viewed from the workbook "AdjustedStats - Latest Projections - Copy.xlsm" 
 - All past goals and assists values are adjusted to the 2016/2017 level of goals per a game and assists per a game to accurately show when a player increases or decreases season to season 
+
+The macros which are used to generate distributions are in the workbook "AdjustedStats - Latest Projections - Copy.xlsm", however, this workbook is cluttered, and the macros are not commented with detail. It will be difficult to understand, but it is available to be viewed. Also, the macros will not be able to run for this workbook since some of the sub procedures require connections to other workbooks. 
 
 Simulated results are based on how a player performed in the prior season. If it was a player's first season in the NHL, then it is based on how they are categorized (when first season occured and how they performed in their first season). The similated results are currently only goals and assists, using normal distributions.
 

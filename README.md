@@ -6,7 +6,9 @@ Note: Created using VBA. However, files uploaded to Github containing the macros
 
 ## Updates
 Added the Excel workbook and VBA code which web scrapes wikipedia for birthdays and collects hockey player stats from sportsnet.
+
 Workbook name: "Hockey Data Collector.xlsm"
+
 Note: Code for webscraping sportsnet may need to be adjusted if there is a changed in the source code for the website
 
 ### Getting Started

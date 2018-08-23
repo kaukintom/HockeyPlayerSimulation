@@ -1,5 +1,5 @@
 
-## Fantasy Hockey Simulator
+## Hockey Player Season Simulator
 Simulates the point production of hockey players for an NHL season and accommodates a fantasy hockey scoring system. This project would be used to aid in fantasy hockey player selection.
 
 Note: Created using VBA. However, files uploaded to Github containing the macros are classified as VB.

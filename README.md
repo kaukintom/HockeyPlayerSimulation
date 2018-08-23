@@ -37,3 +37,10 @@ Some category of players currently contain too few entries to develop an accurat
 
 ### Acknowledgments
 McMaster Commerce course 3QA3 - Introduced simulation and how simulation can be achieved
+Helped with collecting data from a table on a webpage:
+https://stackoverflow.com/questions/34703533/how-to-scrape-data-from-the-following-table-format-vba
+
+Helped with selecting options on a webpage from a dropdown menu:
+https://www.ozgrid.com/forum/forum/other-software-applications/excel-and-web-browsers-help/145319-select-an-item-from-a-dropdown-list-on-webpage
+
+

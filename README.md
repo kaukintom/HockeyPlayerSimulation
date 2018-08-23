@@ -5,11 +5,11 @@ Simulates the point production of hockey players for an NHL season and accommoda
 Note: Created using VBA. However, files uploaded to Github containing the macros are classified as VB.
 
 ## Updates
-Added the Excel workbook and VBA code which web scrapes wikipedia for birthdays and collects hockey player stats from sportsnet.
+Added the Excel workbook and VBA code which web scrapes wikipedia for birthdays and collects hockey player stats from Sportsnet.
 
 Workbook name: "Hockey Data Collector.xlsm"
 
-Note: Code for web scraping sportsnet may need to be adjusted if there is a changed in the source code for the website
+Note: Code for web scraping Sportsnet may need to be adjusted if there is a changed in the source code for the website
 
 ### Getting Started
 Upon opening the Excel file "Hockey Player Point Projections.xlsm," there is a button that provides a tutorial on how to use the simulator.

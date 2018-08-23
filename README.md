@@ -9,7 +9,7 @@ Added the Excel workbook and VBA code which web scrapes wikipedia for birthdays 
 
 Workbook name: "Hockey Data Collector.xlsm"
 
-Note: Code for webscraping sportsnet may need to be adjusted if there is a changed in the source code for the website
+Note: Code for web scraping sportsnet may need to be adjusted if there is a changed in the source code for the website
 
 ### Getting Started
 Upon opening the Excel file "Hockey Player Point Projections.xlsm," there is a button that provides a tutorial on how to use the simulator.

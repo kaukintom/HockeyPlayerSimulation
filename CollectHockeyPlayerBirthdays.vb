@@ -8,11 +8,12 @@ Const year1 As Integer = 2017 'Change this to the most recent season
 'and the titles of each column need to match previous season titles
 '*************************************************************************************************
 
+
 Sub Age_And_Season() '*****Web Scraper For Hockey Player Age
 'Adds the age of the player and the current season of their career to the _
 'Latest web scraped data
 'If this is a player's first season, then their birthday will be scraped _
-from wikipedia
+'from wikipedia
 Dim SeasonSheet As Worksheet 'Latest season data
 Dim SSarray As Variant 'Array of data on SeasonSheet
 Dim Name As String 'Hockey Player
@@ -245,9 +246,11 @@ End If
 End Sub
 
 Sub AdjustBirthday(Birthday, Age, CurrentYear)
+
 Dim BdayArray As Variant
 
 BdayArray = Split(Birthday, "-") 'Put birthday string into array
+
 Age = CurrentYear - BdayArray(0) 'Current year subtracted by the first element in array (birth year)
 
 End Sub
